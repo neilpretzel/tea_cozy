@@ -36,6 +36,7 @@ a {
 }
 .content {
   display: block;
+  margin: 0 auto;
   width: 1200px;
   padding-top: 70px;
 }
